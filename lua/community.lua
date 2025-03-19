@@ -19,6 +19,7 @@ return {
   { import = "astrocommunity.pack.sql" },
   { import = "astrocommunity.pack.terraform" },
   { import = "astrocommunity.pack.typescript-all-in-one" },
+  { import = "astrocommunity.scrolling.mini-animate" },
   { import = "astrocommunity.session.vim-workspace" },
   -- import/override with your plugins folder
 }
